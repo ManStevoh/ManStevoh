@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Stephen Musyoka
 
-<img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" height="200" width="80%">
+<img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" height="200" width="100%">
 .center {
   display: block;
   margin-left: auto;
