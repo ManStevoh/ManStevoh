@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Stephen Musyoka
-### my work sample
-<img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif"  width="256" height="100">
+
+<img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif"  width="256" height="200">
 
 #### Full stack Software Developer
 ![Full stack Software Developer](https://scontent.fnbo16-1.fna.fbcdn.net/v/t39.30808-6/375263149_654699473281464_3748712124239591767_n.png?_nc_cat=109&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeGN7ZLz9Hlbxe2etRf3AxDLEjW7njdgIl4SNbueN2AiXpuzcbbv3XLfTXIrlhyIcaOhYHbgVh9tIWactctP4bNq&_nc_ohc=3xGORSexRvUAX88bObR&_nc_ht=scontent.fnbo16-1.fna&oh=00_AfAXnd7yeeGo_WWewCu8zB2AXFO7vDmW_DuKD1R4qXhjuQ&oe=6593011D)
