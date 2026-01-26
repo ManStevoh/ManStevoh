@@ -1,7 +1,7 @@
 <img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" height="200" width="100%" alt="Welcome Banner">
 
 # 👋 Hi there, I'm **Stephen Musyoka**
-### 🚀 Full Stack Software Developer | Laravel & React Native Enthusiast | Certified Software Engineer
+### 🚀 Full Stack Software Developer | Laravel & React Native Enthusiast | Flutter | Certified Software Engineer
 
 ![Developer Banner](https://scontent.fnbo16-1.fna.fbcdn.net/v/t39.30808-6/375263149_654699473281464_3748712124239591767_n.png?_nc_cat=109&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeGN7ZLz9Hlbxe2etRf3AxDLEjW7njdgIl4SNbueN2AiXpuzcbbv3XLfTXIrlhyIcaOhYHbgVh9tIWactctP4bNq&_nc_ohc=3xGORSexRvUAX88bObR&_nc_ht=scontent.fnbo16-1.fna&oh=00_AfAXnd7yeeGo_WWewCu8zB2AXFO7vDmW_DuKD1R4qXhjuQ&oe=6593011D)
 
@@ -13,7 +13,7 @@
 - 🔭 Currently working at **Pemak Softwares**.
 - 🌱 Exploring deeper into **Django** and enhancing my skills in **Laravel**.
 - 💡 Passionate about **building scalable full-stack applications** and contributing to open-source.
-- 💬 Ask me about Laravel, REST APIs, React Native, or SQL database design!
+- 💬 Ask me about Laravel, REST APIs, React Native,Flutter or SQL database design!
 - 📫 Reach me at: **stephenmusyoka207@gmail.com**
 
 ---
@@ -21,7 +21,7 @@
 ### 🛠️ Tech Stack & Skills
 
 **Languages & Frameworks**  
-`PHP` | `Laravel` | `JavaScript` | `React Native` | `Next.js` | `Django (Learning)`  
+`PHP` | `Laravel` | `JavaScript` | `React Native`| `Flutter` | `Java`  | `Next.js` | `Django (Learning)`  
 
 **Frontend**  
 `HTML5` | `CSS3` | `Bootstrap` | `Tailwind CSS` | `React`  
