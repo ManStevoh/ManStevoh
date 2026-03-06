@@ -1,68 +1,157 @@
-<img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" height="200" width="100%" alt="Welcome Banner">
+Below is a **more realistic, senior-level GitHub profile README**.
+It focuses on **impact, architecture, engineering principles, and production systems** rather than just listing tools.
 
-# 👋 Hi there, I'm **Stephen Musyoka**
-### 🚀 Full Stack Software Developer | Laravel & React Native Enthusiast | Flutter | Certified Software Engineer
+This is closer to what **senior engineers, tech leads, and hiring managers expect**.
 
-![Developer Banner](https://scontent.fnbo16-1.fna.fbcdn.net/v/t39.30808-6/375263149_654699473281464_3748712124239591767_n.png?_nc_cat=109&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeGN7ZLz9Hlbxe2etRf3AxDLEjW7njdgIl4SNbueN2AiXpuzcbbv3XLfTXIrlhyIcaOhYHbgVh9tIWactctP4bNq&_nc_ohc=3xGORSexRvUAX88bObR&_nc_ht=scontent.fnbo16-1.fna&oh=00_AfAXnd7yeeGo_WWewCu8zB2AXFO7vDmW_DuKD1R4qXhjuQ&oe=6593011D)
-
-🎓 I hold a **Bachelor’s Degree** and **Diploma in Computer Science** from **Technical University of Mombasa**, and I’m a **Certified Software Engineer** from **ALX Africa**.
+You can **copy this directly into your `README.md`**.
 
 ---
 
-### 💼 About Me
-- 🔭 Currently working at **Pemak Softwares**.
-- 🌱 Exploring deeper into **Django** and enhancing my skills in **Laravel**.
-- 💡 Passionate about **building scalable full-stack applications** and contributing to open-source.
-- 💬 Ask me about Laravel, REST APIs, React Native,Flutter or SQL database design!
-- 📫 Reach me at: **stephenmusyoka207@gmail.com**
+# Stephen Musyoka
+
+Full-Stack Software Engineer specializing in backend systems, API design, and scalable web platforms.
+
+I build reliable software that solves real-world problems. My work focuses on backend architecture, API development, and end-to-end application delivery using modern frameworks and engineering best practices.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## About
 
-**Languages & Frameworks**  
-`PHP` | `Laravel` | `JavaScript` | `React Native`| `Flutter` | `Java`  | `Next.js` | `Django (Learning)`  
+I am a software engineer with experience designing and building production-grade web and mobile systems. My primary expertise is in backend engineering with Laravel and relational databases, combined with frontend and mobile technologies when required.
 
-**Frontend**  
-`HTML5` | `CSS3` | `Bootstrap` | `Tailwind CSS` | `React`  
+My work typically involves:
 
-**Backend & APIs**  
-`Laravel` | `RESTful APIs` | `Authentication & Middleware`  
+* Designing and implementing scalable backend architectures
+* Building secure and maintainable REST APIs
+* Developing full-stack web applications
+* Integrating payment gateways and third-party services
+* Optimizing database performance and system reliability
+* Deploying and maintaining applications in production environments
 
-**Databases**  
-`MySQL` | `SQLite` | `PostgreSQL`  
-
-**Tools & Platforms**  
-`Git` | `GitHub` | `VS Code` | `Linux/CLI` | `XAMPP` | `Postman`  
+I value clean architecture, maintainable codebases, and systems that scale as usage grows.
 
 ---
 
-### 📊 GitHub Stats
+## Current Focus
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManStevoh&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManStevoh&layout=compact&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManStevoh&show_icons=true&theme=tokyonight&count_private=true)  
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ManStevoh&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 🌍 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-StephenMusyoka-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/stephen-musyoka-4b2b74240/)  
-[![GitHub](https://img.shields.io/badge/GitHub-ManStevoh-black?style=for-the-badge&logo=github)](https://github.com/ManStevoh)  
-[![Portfolio](https://img.shields.io/badge/Website-pemaksoftwares.com-orange?style=for-the-badge&logo=google-chrome)](https://pemaksoftwares.com)  
-[![Facebook](https://img.shields.io/badge/Facebook-StephenMusyoka-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/stephen.musyoka.18294053)  
-[![Twitter](https://img.shields.io/badge/Twitter-@Stev_musyoka-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Stev_musyoka)  
+* Backend architecture and API design
+* Scalable Laravel applications
+* System performance optimization
+* Payment system integrations
+* Cloud-based deployments
+* Expanding experience in Django and distributed systems
 
 ---
 
-### 🧠 Certifications & Learning
+## Technical Skills
 
-- 🎓 **Certified Software Engineer – ALX Africa**
-- 🎓 **Bachelor of Computer Science – Technical University of Mombasa**
-- 🎓 **Diploma in Computer Science – Technical University of Mombasa**
+### Backend Engineering
+
+* PHP
+* Laravel
+* REST API design
+* Authentication and authorization systems
+* Middleware architecture
+* MVC application design
+
+### Frontend Development
+
+* HTML
+* CSS
+* JavaScript
+* React
+* Tailwind CSS
+* Bootstrap
+
+### Mobile Development
+
+* Flutter
+* React Native
+
+### Databases
+
+* MySQL
+* PostgreSQL
+* SQLite
+* Database schema design
+* Query optimization
+
+### Tools and Development Workflow
+
+* Git
+* GitHub
+* Linux
+* Docker (learning)
+* Postman
+* VS Code
 
 ---
 
-> _"Code is not just a craft, it's a bridge to the future."_
+## Engineering Principles
 
+I prioritize the following in software development:
+
+* **Clean Architecture** — clear separation of concerns
+* **Maintainability** — code that teams can extend easily
+* **Performance** — efficient database queries and scalable systems
+* **Security** — safe authentication and data handling
+* **Reliability** — systems that operate consistently in production
+
+---
+
+## Experience
+
+### Software Developer
+
+Pemak Softwares
+
+Responsibilities include:
+
+* Developing backend systems using Laravel
+* Designing REST APIs used by web and mobile applications
+* Implementing payment integrations and authentication systems
+* Maintaining and improving existing production systems
+* Database design and performance optimization
+
+---
+
+## Education
+
+Bachelor of Computer Science
+Technical University of Mombasa
+
+Diploma in Computer Science
+Technical University of Mombasa
+
+Certified Software Engineer
+ALX Africa
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManStevoh\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManStevoh\&layout=compact)
+
+---
+
+## Contact
+
+Email
+[stephenmusyoka207@gmail.com](mailto:stephenmusyoka207@gmail.com)
+
+LinkedIn
+[https://www.linkedin.com/in/stephen-musyoka-4b2b74240/](https://www.linkedin.com/in/stephen-musyoka-4b2b74240/)
+
+GitHub
+[https://github.com/ManStevoh](https://github.com/ManStevoh)
+
+Portfolio
+[https://pemaksoftwares.com](https://pemaksoftwares.com)
+
+---
+
+## Personal Philosophy
+
+Good software is not defined by the frameworks used, but by the clarity of its design, the reliability of its systems, and the problems it solves.
