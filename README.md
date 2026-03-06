@@ -1,12 +1,3 @@
-Below is a **more realistic, senior-level GitHub profile README**.
-It focuses on **impact, architecture, engineering principles, and production systems** rather than just listing tools.
-
-This is closer to what **senior engineers, tech leads, and hiring managers expect**.
-
-You can **copy this directly into your `README.md`**.
-
----
-
 # Stephen Musyoka
 
 Full-Stack Software Engineer specializing in backend systems, API design, and scalable web platforms.
